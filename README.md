@@ -53,9 +53,9 @@ The decomposition-based models use a logarithmic transformation of electricity l
 
 ## Repository Contents
 
-- `analysis/` — R code and notes documenting the modelling workflow.
-- `presentation/` — Project presentation materials.
-- `data/` — Data source and preparation notes.
+- [analysis/](analysis/) — R code and notes documenting the modelling workflow.
+- [presentation/](presentation/) — Project presentation materials.
+- [data/](data/)— Data source and preparation notes.
 
 
 ## Academic Context
